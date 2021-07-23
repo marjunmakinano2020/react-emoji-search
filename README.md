@@ -1,18 +1,20 @@
-Emoji Search
----
+# react-emoji-search
+A simple emoji search engine built using React
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## Setup
 
+Installation
 
+```
+yarn install
+```
 
-Install
----
+Run
 
-`npm install`
+```
+yarn start
+```
 
+## Todo
 
-
-Usage
----
-
-`npm start`
+* Deploy to firebase
